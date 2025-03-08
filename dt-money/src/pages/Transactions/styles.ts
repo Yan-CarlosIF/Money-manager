@@ -6,6 +6,7 @@ export const TransactionsConteiner = styled.main`
   max-width: 1120px;
   margin: 4rem auto 0;
   padding: 0 1.5rem;
+  margin-bottom: 3rem;
 `;
 
 export const TransactionsTable = styled.table`
