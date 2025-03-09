@@ -1,4 +1,4 @@
-import { createContext } from "react";
+import { createContext } from "use-context-selector";
 import { Transaction } from "../@types/transactions.d";
 
 export interface CreateTransactionInput {
